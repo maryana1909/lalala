@@ -9,4 +9,3 @@ dashka 11111
 
 vanish lox
 
-vanya lysay kabina
